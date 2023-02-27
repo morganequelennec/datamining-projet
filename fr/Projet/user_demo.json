@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "yamine",
+      "name_photo_liked": [
+        "abra",
+        "arbok",
+        "cacturne",
+        "boldore"
+      ]
+    },
+    {
+      "name": "morgane",
+      "name_photo_liked": [
+        "clefable",
+        "combee",
+        "corsola",
+        "dragonair"
+      ]
+    },
+    {
+      "name": "emre",
+      "name_photo_liked": [
+        "crustle",
+        "duskull"
+      ]
+    },
+    {
+      "name": "abou",
+      "name_photo_liked": [
+        "corsola",
+        "beldum",
+        "archen"
+      ]
+    }
+
+  ]
+}

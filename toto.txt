@@ -1,0 +1,12 @@
+SELECT DISTINCT ?countryLabel (YEAR(?date) as ?year) ?population
+WHERE {
+ ?country wdt:P31 wd:Q6256; #Country 
+   p:P1082 ?populationStatement;
+  rdfs:label ?countryLabel. #Label
+ ?populationStatement ps:P1082 ?population; #population
+  pq:P585 ?date. #period in time
+ FILTER(lang(?countryLabel)="en") #Label in English
+}
+ORDER by ?countryLabel ?year
+LIMIT 1000
+
