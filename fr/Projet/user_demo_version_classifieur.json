@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "name": "sleepy-coral-monkey",
+            "id_photo_liked": [
+                "bellossom",
+                "anorith",
+                "amaura",
+                "basculin-red-striped",
+                "barbaracle",
+                "bastiodon",
+                "ampharos",
+                "azelf",
+                "aron",
+                "beautifly"
+            ],
+            "id_photo_disliked": [
+                "altaria",
+                "abomasnow",
+                "articuno",
+                "absol",
+                "araquanid",
+                "arbok",
+                "beheeyem",
+                "alomomola"
+            ],
+            "recommandations": []
+        }
+    ]
+}
